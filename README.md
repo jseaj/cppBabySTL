@@ -29,7 +29,7 @@ $ make
 - 阅读源码前的准备工作
   - STL源码的命名风格 VS 本项目的命名风格：TODO
   - `typename`，`typedef`和`using`在STL源码中的作用：TODO
-- [`std::string`源码阅读笔记](./docs/string.md)，[`std::string`仿写代码](./src/baby_string.md)
+- [`std::string`源码阅读笔记](./docs/string.md)，[`std::string`仿写代码](./src/baby_string.h)
 - [`std::array`源码阅读笔记](./docs/array.md)，[`std::array`仿写代码](./src/baby_array.h)
 - [`std::vector`源码阅读笔记](./docs/vector.md)，[`std::vector`仿写代码](./src/baby_vector.h)
 - [`std::forwardlist`源码阅读笔记](./docs/forwardlist.md)，[`std::forwardlist`仿写代码](./src/baby_forwardlist.h)
