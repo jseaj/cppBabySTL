@@ -20,7 +20,7 @@ $ make
 在学习本项目前，首先需要解决一个问题，即：在哪儿阅读c++ STL源代码？主要有以下两种方式：
 
 1. 通过编译器自带的源代码进行学习。c++的编译器（如GCC、MinGW和MSVC等）都是自带源代码，但不同的编译器对STL的实现并不完全相同。
-2. 在官方的github上的镜像阅读源码。GNU/GCC中的STL镜像地址为：https://github.com/gcc-mirror/gcc/tree/master/libstdc%2B%2B-v3/include/bits，MSVC的官方镜像：https://github.com/microsoft/STL/tree/main。
+2. 在官方的github上的镜像阅读源码。GNU/GCC中的STL镜像地址为：[https://github.com/gcc-mirror/gcc/tree/master/libstdc%2B%2B-v3/include/bits](https://github.com/gcc-mirror/gcc/tree/master/libstdc%2B%2B-v3/include/bits)，MSVC的官方镜像：[https://github.com/microsoft/STL/tree/main](https://github.com/microsoft/STL/tree/main)。
 
 个人推荐使用方式1去阅读STL的源代码，因为方式1可以debug。
 
